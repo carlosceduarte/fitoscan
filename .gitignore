@@ -1,0 +1,15 @@
+# Dados de treino e artefatos pesados
+data/
+dataset/
+*.h5
+*.keras
+*.npy
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
